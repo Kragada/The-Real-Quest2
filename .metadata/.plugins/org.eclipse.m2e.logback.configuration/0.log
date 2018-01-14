@@ -171,3 +171,4 @@
 2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Decrypt/version::1.0.1
 2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::PKCS#7/CMS Signature-Content Splitter/version::1.0.1
 2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SFTP/tp::SFTP/mp::File/direction::Receiver/version::1.2.1
+2018-01-14 19:06:38,216 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
