@@ -1,0 +1,173 @@
+2018-01-14 19:01:04,440 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-14 19:01:12,845 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Updating Profile SAP Financial Services Network
+2018-01-14 19:01:12,845 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Registering Profile SAP Financial Services Network
+2018-01-14 19:01:13,159 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Updating Profile SAP Cloud Platform Integration
+2018-01-14 19:01:13,159 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Registering Profile SAP Cloud Platform Integration
+2018-01-14 19:01:13,160 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::Mail/tp::SMTP/mp::None/direction::Receiver/version::1.2.1
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HTTPS/tp::HTTPS/mp::None/direction::Sender/version::1.1
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::ODataSender/tp::HTTP/mp::OData V2/direction::Sender/version::1.1
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::ODataSender/tp::HTTP/mp::OData V2/direction::Sender/version::1.1.2
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ODataSender
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Decoder/ZIP Decompress
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name SuccessFactors
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.3.0
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name SFTP
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Sender/version::1.1.3
+2018-01-14 19:01:13,162 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Sender/version::1.2.1
+2018-01-14 19:01:13,167 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Sender/version::1.3.1
+2018-01-14 19:01:13,167 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Sender/version::1.2.1
+2018-01-14 19:01:13,167 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Script
+2018-01-14 19:01:13,167 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Variables/version::1.0.3
+2018-01-14 19:01:13,173 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Sender
+2018-01-14 19:01:13,173 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::SimpleSignMessage/version::1.0.0
+2018-01-14 19:01:13,173 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::XSLTMapping/version::1.1.7
+2018-01-14 19:01:13,173 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SFTP/tp::SFTP/mp::File/direction::Sender/version::1.4.0
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SFTP/tp::SFTP/mp::File/direction::Sender/version::1.3.1
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.4.1
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SFTP/tp::SFTP/mp::File/direction::Sender/version::1.2.1
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SFTP/tp::SFTP/mp::File/direction::Receiver/version::1.3.0
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name HTTPS
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HTTPS/tp::HTTPS/mp::None/direction::Sender/version::1.2
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name SAP:Twitter
+2018-01-14 19:01:13,179 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ErrorEndEvent
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name CsvToXmlConverter
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MessageEndEvent/version::1.1.0
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::delete/version::1.1.1
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Decoder/Base64 Decode
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Encoder/GZIP Compress
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name EndEvent/EscalationEventDefinition
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::GeneralSplitter/version::1.0.2
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::IFlowVariant/cname::IFlowConfiguration/version::1.1.5
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Join/version::1.0.0
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Gather/version::1.0.0
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name LDAP
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:Mail/tp::POP3/mp::Not Applicable/direction::Sender/version::1.1.1
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::SignMessage/version::1.0.1
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name MessageDigest
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MessageMapping
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Multicast/version::1.1.0
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:Mail/tp::IMAP/mp::Not Applicable/direction::Sender/version::1.3.0
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MIME Multipart Message Encode/version::1.0.1
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name SAP:Facebook
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Encoder/Base64 Encode
+2018-01-14 19:01:13,185 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::CsvToXmlConverter/version::1.1.4
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name contentEnricherWithLookup
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Enricher/version::1.2.3
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Enricher
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Enricher/version::1.1.4
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name delete
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::TerminateEndEvent
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MessageEndEvent
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::ErrorEventSubProcessTemplate/version::1.0.2
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Decoder/GZIP Decompress
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Filter
+2018-01-14 19:01:13,186 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::GeneralSplitter/version::1.1.2
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::GeneralSplitter/version::1.2.0
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::get/version::1.1.1
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowElementVariant/cname::IntegrationProcess/version::1.1.2
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::IFlowVariant/cname::IFlowConfiguration/version::1.0.5
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name get
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Receiver/version::1.1.0
+2018-01-14 19:01:13,191 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Receiver/version::1.3.2
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Receiver/version::1.2.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Sender/version::1.1.3
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Sender/version::1.2.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Sender/version::1.3.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::IDOC/tp::HTTP/mp::IDoc SOAP/direction::Receiver/version::1.4.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::IDoc/version::1.0.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::JsonToXmlConverter
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Camel/version::1.1.2
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowElementVariant/cname::IntegrationProcess/version::1.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Camel/version::1.0.2
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Camel/version::1.2.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Aggregator
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name On-Premise Connectivity
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Receiver
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Request-Reply
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ExclusiveGateway
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V2/direction::Receiver/version::1.2.1
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V4/direction::Receiver/version::1.3.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::SOAP/direction::Receiver/version::1.2.1
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Receiver/version::1.4.2
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Receiver/version::1.3.5
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Receiver/version::1.5.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Sender/version::1.3.1
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name SOAP
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Sender/version::1.1.5
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Receiver/version::1.2.3
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Receiver/version::1.1.2
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::SOAP 1.x/direction::Receiver/version::1.3.0
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Receiver/version::1.1.5
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SOAP/tp::HTTP/mp::Plain SOAP/direction::Receiver/version::1.2.1
+2018-01-14 19:01:13,192 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V2/direction::Receiver/version::1.5.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V2/direction::Receiver/version::1.4.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V2/direction::Receiver/version::1.4
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::ExtensionVariant/cname::sap:RetryHandling/version::1.1.0
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name NonLoopingProcess
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Encrypt/version::1.0.3
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MulticastRoute/version::1.0.0
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.4.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name HCIOData
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.1.0
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ODC
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:ODC/tp::HTTPS/mp::Not Applicable/direction::Receiver/version::1.1.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.3.2
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.2.0
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Multicast/version::1.0.0
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::VerifySign
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name select
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::SequentialMulticast/version::1.0.0
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::select/version::1.1.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Send
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::put/version::1.1.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::XmlValidator/version::1.1.1
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::XMLDigitalVerifySign
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name XmlValidator
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name XMLDigitalSignMessage
+2018-01-14 19:01:13,193 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name put
+2018-01-14 19:01:13,194 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::XmlToCsvConverter/version::1.0.4
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name XmlToJsonConverter
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::XSLTMapping/version::1.0.7
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Encoder/ZIP Compress
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::SequentialMulticast/version::1.1.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::ErrorStartEvent
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::intermediatetimer/version::1.0.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MessageStartEvent
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:Mail/tp::IMAP/mp::Not Applicable/direction::Sender/version::1.2.1
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:Mail/tp::IMAP/mp::Not Applicable/direction::Sender/version::1.1.1
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:Mail/tp::POP3/mp::Not Applicable/direction::Sender/version::1.2.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:Mail/tp::POP3/mp::Not Applicable/direction::Sender/version::1.3.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Mail
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::Mail/tp::SMTP/mp::None/direction::Receiver/version::1.1.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name HTTP
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MIME Multipart Message Encode/version::1.1.1
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name LoopingProcess
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name MIME Multipart Message Decode
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::LoopingProcess/version::1.1.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowElementVariant/cname::LocalIntegrationProcess/version::1.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.1.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Ariba
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name IDOC
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name PrincipalPropagationProviderUtilSupport
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name PartnerDirectorySupport
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HTTP/tp::HTTP/mp::None/direction::Receiver/version::1.2.1
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowElementVariant/cname::LocalIntegrationProcess/version::1.1.2
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::sap:LDAP/tp::TCP/mp::LDAP/direction::Receiver/version::1.1.0
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name RFC
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::ExtensionVariant/cname::sap:RetryHandling/version::1.0.1
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V2/direction::Receiver/version::1.5
+2018-01-14 19:01:13,201 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::SOAP/direction::Sender/version::1.2.1
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::SOAP/direction::Receiver/version::1.3
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::SOAP/direction::Sender/version::1.3
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SuccessFactors/tp::HTTP/mp::OData V4/direction::Receiver/version::1.2.0
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::ExtensionVariant/cname::sap:Resources/version::1.0
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name Persist
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::PgpDecrypt/version::1.0.2
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.3.0
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.2.1
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.4.0
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::HCIOData/tp::HTTP/mp::OData V2/direction::Receiver/version::1.3.1
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::PgpEncrypt/version::1.0.3
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Decrypt/version::1.0.1
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::PKCS#7/CMS Signature-Content Splitter/version::1.0.1
+2018-01-14 19:01:13,202 [Worker-0] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::AdapterVariant/cname::SFTP/tp::SFTP/mp::File/direction::Receiver/version::1.2.1
